@@ -113,7 +113,7 @@ After Examining the Data I have two perfect options which are perfect for the pe
 It maybe noted that a lot of external factors like weather were not considered during this report.
 We also did not consider traffic and other disablites of a person.
 
-**Conlusion**
+**Conclusion**
 
 For a person who is planning to shift from any place to Manhattan I believe that this report will be sufficent to understand the city.
 I have compared rent, food options, distance from subway using clustering and found that in cluster #3 we had the best place to stay found
